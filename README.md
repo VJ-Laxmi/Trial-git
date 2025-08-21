@@ -1,3 +1,3 @@
 # Trial-git
 
--Trialing for the first time and everthings working smoothly.
+-Trialing for the first time and everything's working smoothly.
