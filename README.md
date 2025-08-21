@@ -1,4 +1,5 @@
 # Trial-git
 
 -Trialing for the first time and everything's working smoothly.
-Change done by owner of trial :)
+Change done by contributor...
+
